@@ -1,0 +1,4 @@
+Django==3.2  # Adjust the version if needed
+djangorestframework==3.12  # Adjust the version if needed
+djangorestframework-simplejwt==5.1.0  # Adjust the version if needed
+psycopg2-binary==2.9.1  # PostgreSQL adapter for Python
